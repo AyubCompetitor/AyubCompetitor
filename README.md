@@ -1,7 +1,5 @@
 # Frontend - developer
 
----
-
 ### :man_technologist: 👋, I'm Ayub!
 
 -   :mailbox: Feedback: [![Telegram Badge](https://img.shields.io/badge/-userf1ame-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/f1llzzz) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:shakhgiriev.feedback@gmail.com)
@@ -68,6 +66,6 @@
 
 ### ⚙️ GitHub statistics:
 
-<div display="flex" align-items="left" justify-content="start">
+<table>
       <img width="100%" height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AyubCompetitor&layout=compact&theme=vision-friendly-dark" />
-</div>
+</table>
