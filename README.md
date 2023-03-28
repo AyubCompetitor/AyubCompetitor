@@ -1,8 +1,4 @@
-# Frontend - developer
-
-### :man_technologist: 👋, I'm Ayub!
-
-###
+### :man_technologist Frontend - developer
 
 ### 🤝 Social media and feedback:
 
