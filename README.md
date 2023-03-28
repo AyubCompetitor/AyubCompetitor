@@ -2,21 +2,20 @@
 
 ### :man_technologist: 👋, I'm Ayub!
 
--   :mailbox: Feedback: 
--   [![Telegram Badge](https://img.shields.io/badge/-userf1ame-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/f1llzzz) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:shakhgiriev.feedback@gmail.com)
-
----
-
-### 🤝 Social media:
-
+### 🤝 Social media and feedback:
+https://cdn-icons-png.flaticon.com/512/720/720277.png
   <div id="badges">
     <a href="https://www.linkedin.com/in/ayun-sh-51473a26b/" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
     </a>
     <a href="https://t.me/userf1ame" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
+      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram" />
+    </a>
+      <a href="shakhgiriev.feedback@gmail.com" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/720/720277.png" width="40" height="40" alt="google mail" />
     </a>
   </div>
+
 
 ---
 
