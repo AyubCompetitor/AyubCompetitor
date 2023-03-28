@@ -1,5 +1,7 @@
- <h1 align="center">I'm <a href="https://t.me/rintaruu" target="_blank">Askhab</a></h1>
- <h4 align="center"> Frontend-developer 🌐</h4>
+ <h1 align="left">I'm <a href="https://github.com/AyubCompetitor" target="_blank">Ayub</a></h1>
+ <h4 align="left"> Frontend-developer 🌐</h4>
+
+---
 
 ### 🤝 Social media and feedback:
 
