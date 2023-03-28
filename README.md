@@ -1,6 +1,6 @@
 # Frontend-developer
 
----
+
 
 ### 🤝 Social media and feedback:
 
