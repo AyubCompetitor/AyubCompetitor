@@ -1,4 +1,6 @@
-### :man_technologist Frontend - developer
+Frontend - developer
+
+---
 
 ### 🤝 Social media and feedback:
 
