@@ -1,8 +1,5 @@
 ---
 # Frontend-developer
----
-
-
 
 ### 🤝 Social media and feedback:
 
@@ -16,6 +13,7 @@
       <a href="shakhgiriev.feedback@gmail.com" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/720/720277.png" width="40" height="40" alt="google mail" />
     </a>
+  [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:shakhgiriev.feedback@gmail.com)
   </div>
 
 ---
