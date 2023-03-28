@@ -1,14 +1,14 @@
-# Frontend - разработчик
+# Frontend - developer
 
 ---
 
-### :man_technologist: 👋, меня зовут Аюб!
+### :man_technologist: 👋, I'm Ayub!
 
--   :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-userf1ame-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/f1llzzz) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:shakhgiriev.feedback@gmail.com)
+-   :mailbox: Feedback: [![Telegram Badge](https://img.shields.io/badge/-userf1ame-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/f1llzzz) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:shakhgiriev.feedback@gmail.com)
 
 ---
 
-### 🤝 Социальные сети:
+### 🤝 Social media:
 
   <div id="badges">
     <a href="https://www.linkedin.com/in/ayun-sh-51473a26b/" target="_blank">
@@ -21,7 +21,7 @@
 
 ---
 
-### 💻 Технологии:
+### 💻 Technology stack:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp;
@@ -37,7 +37,7 @@
 
 ---
 
-### 🛠 Инструменты:
+### 🛠 Tools:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="photoshop" alt="photoshop" width="40" height="40"/>&nbsp;
@@ -48,7 +48,7 @@
 
 ---
 
-### 💻 Пройденные курсы:
+### 💻 Completed courses:
 
 | Платформа |                     Курсы                      |
 | --------- | :--------------------------------------------: |
@@ -66,7 +66,7 @@
 
 ![codewars](https://www.codewars.com/users/krizz155/badges/large)
 
-### ⚙️ GitHub статистика:
+### ⚙️ GitHub statistics:
 
 <table>
   <tr>
