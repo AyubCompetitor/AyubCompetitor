@@ -6,7 +6,7 @@
 
 ### 🤝 Social media and feedback:
 
-  <div id="badges">
+  <div align="center" id="badges">
     <a href="https://www.linkedin.com/in/ayun-sh-51473a26b/" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
     </a>
