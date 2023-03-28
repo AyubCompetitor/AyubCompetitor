@@ -11,7 +11,7 @@
       <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram" />
     </a>
       <a href="shakhgiriev.feedback@gmail.com" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/720/720277.png" width="40" height="40" alt="google mail" />
+      <img src="https://cdn-icons-png.flaticon.com/512/720/720277.png" width="40" title="shakhgiriev.feedback@gmail.com" height="40" alt="google mail" />
     </a>
   </div>
 
