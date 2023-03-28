@@ -1,6 +1,6 @@
 # Frontend - developer!
 
----
+
 
 ### 🤝 Social media and feedback:
 
@@ -66,7 +66,5 @@
 ### ⚙️ GitHub statistics:
 
 <div align="left">
-
       <img width="100%" height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AyubCompetitor&layout=compact&theme=vision-friendly-dark" />
-
 </div>
