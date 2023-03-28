@@ -1,6 +1,7 @@
  <h1 align="left">I'm <a href="https://github.com/AyubCompetitor" target="_blank">Ayub</a></h1>
- <h2 align="left"> Frontend-developer 🌐</h4>
- 
+ ---
+ <h3 align="left"> Frontend-developer 🌐</h4>
+ ---
 
 ### 🤝 Social media and feedback:
 
