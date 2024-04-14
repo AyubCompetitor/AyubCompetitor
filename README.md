@@ -1,16 +1,13 @@
  <h1 align="left">I'm <a href="https://github.com/AyubCompetitor" target="_blank">Ayub</a></h1>
  
- <h3 align="left"> Frontend-developer 🌐</h4>
+ <h3 align="left"> Frontend engineer 🌐</h4>
  
  ---
 
 ### 🤝 Social media and feedback:
 
   <div id="badges">
-    <a href="https://www.linkedin.com/in/ayun-sh-51473a26b/" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
-    </a>
-    <a href="https://t.me/job_feedback" target="_blank">
+    <a href="https://t.me/frontend_engineeer" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram" />
     </a>
       <a href="shakhgiriev.feedback@gmail.com" target="_blank">
@@ -54,16 +51,3 @@
 ### 💻 Codewars:
 
 ![codewars](https://www.codewars.com/users/krizz155/badges/large)
-
-### ⚙️ GitHub statistics:
-
-<table>
-  <tr>
-    <td>
-      <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=AyubCompetitor&theme=dark&background=000000" alt="webDev's Github stats" />
-    </td>
-    <td>
-      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AyubCompetitor&layout=compact&theme=vision-friendly-dark" />
-    </td>
-  </tr>
-</table>
