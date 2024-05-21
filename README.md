@@ -47,7 +47,3 @@
  </div>
 
 ---
-
-### 💻 Codewars:
-
-![codewars](https://www.codewars.com/users/krizz155/badges/large)
